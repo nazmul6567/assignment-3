@@ -1,6 +1,5 @@
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/nazmul6567/assignment-3.git
-git push -u origin main
+/** Problem -01 ( Divide the Asset ) */
+var area = 827489;
+//write your code here
+var theyGet = parseFloat(area / 2);
+console.log(theyGet);
